@@ -1,0 +1,9 @@
+.die {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.138);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    width: 3rem;
+}
